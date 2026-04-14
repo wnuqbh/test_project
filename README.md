@@ -9,4 +9,4 @@ A simple Python CLI tool to evaluate password strength.
 
 ## How to Run
 ```bash
-python main.py
+python hello.py
